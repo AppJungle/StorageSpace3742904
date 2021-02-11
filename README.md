@@ -1,1 +1,2 @@
 # DailyGizmo
+https://dailygizmo.net
